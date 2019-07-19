@@ -24,4 +24,6 @@ echo '<ul>
 		<li>master: Pasta principal no repositório do Git</li>
 	  </ul>';
 echo "Baixar arquivos alterados remotamente: git pull origin master";
+echo '<hr>';
+echo "Fim da Aula de Git. Anotações para futuras referências";
 ?>

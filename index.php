@@ -9,6 +9,10 @@ echo '<br><br>';
 echo "Teste de Conflitos";
 //Linha adicionada para a aula de conflitos do GitHub 
 
+echo '<hr>';
+
+echo "Fim da Aula de Git";
+
 //Tag de Encerramento de PHP
 ?>
 
