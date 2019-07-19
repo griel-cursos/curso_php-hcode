@@ -7,7 +7,7 @@ echo "Meu Primeiro Código PHP. <strong>Olá Mundo. Hello World</strong>";
 echo '<br><br>';
 
 echo "Teste de Conflitos";
-//Linha adicionada para a aula de conflitos do GitHub
+//Linha adicionada para a aula de conflitos do GitHub 
 
 //Tag de Encerramento de PHP
 ?>
