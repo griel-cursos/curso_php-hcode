@@ -1,7 +1,7 @@
 <?php
 //Tag de Abertura do PHP
 
-echo "Meu Primeiro Código PHP. <strong>Olá Mundo.</strong>";
+echo "Meu Primeiro Código PHP. <strong>Olá Mundo. Hello World</strong>";
 //Ponto e Vírgula deve ser usado sempre que for encerrar uma instrução.
 
 echo '<br><br>';
