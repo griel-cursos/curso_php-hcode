@@ -14,5 +14,9 @@ echo '<hr>';
 echo "Fim da Aula de Git";
 
 //Tag de Encerramento de PHP
+
+echo '<hr>';
+
 ?>
 
+<a href="indice.php">Ir para o Índice</a>
