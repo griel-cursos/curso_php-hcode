@@ -24,6 +24,9 @@
 				<li>
 					<a href="variaveis/exemplo-04.php">Manipular URL, Retornar IP e Retornar Nome do Arquivo</a>
 				</li>
+				<li>
+					<a href="variaveis/exemplo-05.php">Exemplos de Escopo de Variáveis, Criação de Funções</a>
+				</li>
 			</ul>
 		
 		
