@@ -75,6 +75,17 @@
 				</li>
 			</ul>
 			
+			<h1>Include e Required</h1>
+			
+			<ul>
+				<li>
+					<a href="include/funcao.php">Exemplo de Função Básica de Soma</a>
+				</li>
+				<li>
+					<a href="include/exemplo-02.php">Exemplo de Como Incluir Arquivo, Explicação de Include e Required</a>
+				</li>
+			</ul>
+			
 					
 		</body>
 
