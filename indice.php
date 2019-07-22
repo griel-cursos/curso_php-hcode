@@ -92,10 +92,17 @@
 				<li>
 					<a href="if/exemplo-01.php">Exemplos de Comparação com o IF; Operador Ternário (IF de uma linha só)</a>
 				</li>
-			</ul>
-			<ul>
 				<li>
 					<a href="switch/exemplo-01.php">Exemplos de Switch</a>
+				</li>
+				<li>
+					<a href="for/exemplo-01.php">Exemplos de FOR, como criar função</a>
+				</li>
+				<li>
+					<a href="for/exemplo-02.php">Exemplo de FOR incorreto <b>Cuidado: Causa travamentos no navegador</b></a>
+				</li>
+				<li>
+					<a href="for/exemplo-03.php">Exemplo de For em uma caixa suspensa de formulário</a>
 				</li>
 			</ul>
 			
