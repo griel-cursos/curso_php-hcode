@@ -57,6 +57,24 @@
 					<a href="operadores/exemplo-08.php">Ordem de Execução dos Operadores, Precedencia de Operador</a>
 				</li>
 			</ul>
+			
+			<h1>Strings</h1>
+			
+			<ul>
+				<li>
+					<a href="strings/exemplo-01.php">Diferença de Aspas Simples e Aspas Duplas</a>
+				</li>
+				<li>
+					<a href="strings/exemplo-02.php">Funções e Recursos de Strings, Deixar Maiusculo, Minusculo</a>
+				</li>
+				<li>
+					<a href="strings/exemplo-03.php">Funções e Recursos de Strings, Substituir Textos</a>
+				</li>
+				<li>
+					<a href="strings/exemplo-04.php">Manipulação de Strings, Contagem de Letras</a>
+				</li>
+			</ul>
+			
 					
 		</body>
 
