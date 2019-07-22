@@ -93,8 +93,14 @@
 					<a href="if/exemplo-01.php">Exemplos de Comparação com o IF; Operador Ternário (IF de uma linha só)</a>
 				</li>
 			</ul>
+			<ul>
+				<li>
+					<a href="switch/exemplo-01.php">Exemplos de Switch</a>
+				</li>
+			</ul>
 			
-					
+			
+			
 		</body>
 
 	</head>
