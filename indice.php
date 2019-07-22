@@ -86,6 +86,14 @@
 				</li>
 			</ul>
 			
+			<h1>Estruturas de Controle e Laços de repetição (If, Elseif, Else)</h1>
+			
+			<ul>
+				<li>
+					<a href="if/exemplo-01.php">Exemplos de Comparação com o IF; Operador Ternário (IF de uma linha só)</a>
+				</li>
+			</ul>
+			
 					
 		</body>
 
