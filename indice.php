@@ -104,6 +104,18 @@
 				<li>
 					<a href="for/exemplo-03.php">Exemplo de For em uma caixa suspensa de formulário</a>
 				</li>
+				<li>
+					<a href="foreach/exemplo-01.php">Exemplo de como criar um Foreach</a>
+				</li>
+				<li>
+					<a href="foreach/exemplo-02.php">Foreach recuperando informações de um formulario</a>
+				</li>
+				<li>
+					<a href="while/exemplo-01.php">Exemplo de While com um contador </a>
+				</li>
+				<li>
+					<a href="while/exemplo-02.php">Exemplo de DO WHILE para dar desconto</a>
+				</li>
 			</ul>
 			
 			
