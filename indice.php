@@ -118,7 +118,25 @@
 				</li>
 			</ul>
 			
+			<h1>Arrays e JSON</h1>
 			
+			<ul>
+				<li>
+					<a href="arrays/exemplo-01.php">Criação Simples de Array e print_r para exibir</a>
+				</li>
+				<li>
+					<a href="arrays/exemplo-02.php">Criando Arrays bi-dimensionais, exibindo indice e posição</a>
+				</li>
+				<li>
+					<a href="arrays/exemplo-03.php">Adicionando arrays e dados dentro de uma Array já definida</a>
+				</li>
+				<li>
+					<a href="json/exemplo-01.php">Transformando Array em Json</a>
+				</li>
+				<li>
+					<a href="json/exemplo-02.php">Transformando Json em Array</a>
+				</li>
+			</ul>
 			
 		</body>
 
