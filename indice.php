@@ -152,6 +152,29 @@
 				</li>
 			</ul>
 			
+			<h1>Sessões</h1>
+			
+			<ul>
+				<li>
+					<a href="session/exemplo-01.php">Abertura de Sessão e Criação de Sessão</a>
+				</li>
+				<li>
+					<a href="session/exemplo-02.php">Exibindo a Sessão Ativa</a>
+				</li>
+				<li>
+					<a href="session/exemplo-03.php">Exibindo a ID da Sessão Ativa</a>
+				</li>
+				<li>
+					<a href="session/exemplo-04.php">Regerando o ID de Sessão</a>
+				</li>
+				<li>
+					<a href="session/exemplo-05.php">Exibir pasta local do Cookie e a Situação da Sessão Atual</a>
+				</li>
+				<li>
+					<a href="session/config.php">Arquivo de Configurações para usar com REQUIRE</a>
+				</li>
+			</ul>
+			
 		</body>
 
 	</head>
