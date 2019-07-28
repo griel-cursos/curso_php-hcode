@@ -138,6 +138,20 @@
 				</li>
 			</ul>
 			
+			<h1>Constantes</h1>
+			
+			<ul>
+				<li>
+					<a href="constante/exemplo-01.php">Exemplo de criação e explicação de constante</a>
+				</li>
+				<li>
+					<a href="constante/exemplo-02.php">Criação de Constante com Array (Novidade do PHP 7)</a>
+				</li>
+				<li>
+					<a href="constante/exemplo-03.php">Contantes Pré-Definidas do PHP</a>
+				</li>
+			</ul>
+			
 		</body>
 
 	</head>
