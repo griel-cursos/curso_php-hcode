@@ -18,6 +18,11 @@ array_push($Pessoas, array(
 
 ));
 
+print_r($Pessoas);
+//Exibe o Array com o push do nome e idade
+
+echo '<br><br>';
+
 print_r($Pessoas[0]['nome']);
 //Exibe o array do indice 0 e a posição 'nome'
 
