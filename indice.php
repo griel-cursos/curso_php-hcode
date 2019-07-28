@@ -175,6 +175,44 @@
 				</li>
 			</ul>
 			
+			<h1>Funções</h1>
+			
+			<ul>
+				<li>
+					<a href="funcoes/exemplo-01.php">Exemplo de Funções e Subrotina, Criação e Execução de uma Função</a>
+				</li>
+				<li>
+					<a href="funcoes/exemplo-02.php">Exemplo de Multiplicação com Função</a>
+				</li>
+				<li>
+					<a href="funcoes/exemplo-03.php">Parâmetros e Exemplos de Funções</a>
+				</li>
+				<li>
+					<a href="funcoes/exemplo-04.php">Funções com Vários Parâmetros</a>
+				</li>
+				<li>
+					<a href="funcoes/exemplo-05.php">Passagem de Parâmetros por Referência, Alterar Variáveis fora da Função</a>
+				</li>
+				<li>
+					<a href="funcoes/exemplo-06.php">Exemplo de uma Função em um FOREACH</a>
+				</li>
+				<li>
+					<a href="funcoes/exemplo-07.php">Funções Novas do PHP7</a>
+				</li>
+				<li>
+					<a href="funcoes/exemplo-08.php">Exemplos de Soma em Funções no PHP7</a>
+				</li>
+				<li>
+					<a href="funcoes/exemplo-09.php">Funções Recursivas, Exemplo de Vários Ítens Ordenados com Array</a>
+				</li>
+				<li>
+					<a href="funcoes/exemplo-10.php">Funções Anônimas, Funções para Processamento Lento</a>
+				</li>
+				<li>
+					<a href="funcoes/exemplo-11.php">Funcões Anônimas dentro de uma Variável</a>
+				</li>
+			</ul>
+			
 		</body>
 
 	</head>
