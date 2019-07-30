@@ -213,6 +213,26 @@
 				</li>
 			</ul>
 			
+			<h1>Time e Date</h1>
+			
+			<ul>
+				<li>
+					<a href="date/exemplo-01.php">Exibir Datas, Exibir o Timestamp, Mais Opções de Datas</a>
+				</li>
+				<li>
+					<a href="date/exemplo-02.php">Descobrir Timestamp de uma Data, Somar à data atual, Exibir Data de um Timestamp</a>
+				</li>
+				<li>
+					<a href="date/exemplo-03.php">Alterar a Configuração de Data, Parâmetros do STRFTIME</a>
+				</li>
+				<li>
+					<a href="date/exemplo-04.php">Criando Objeto a Partir de uma Classe, Exibindo Data Através de Classe</a>
+				</li>
+				<li>
+					<a href="date/exemplo-06.php"?>Exibindo e Somando Datas com Classe e POO</a>
+				</li>
+			</ul>
+			
 		</body>
 
 	</head>
