@@ -245,7 +245,10 @@
 							<a href="POO/exemplo-02.php">Métodos get e set, Pegar e Definir Atributos</a>
 						</li>
 						<li>
-							<a href="POO/exemplo-04.php">Exemplo de Classe para Verificar CPF</a>
+							<a href="POO/exemplo-03.php">Exemplo de Classe para Verificar CPF</a>
+						</li>
+						<li>
+							<a href="POO/exemplo-04.php">Métodos Mágicos, Método Alternativo ao get e set</a>
 						</li>
 					</ul>
 				</li>
