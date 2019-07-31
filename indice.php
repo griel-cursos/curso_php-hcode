@@ -233,6 +233,24 @@
 				</li>
 			</ul>
 			
+			<h1>Programação Orientada à Objetos</h1>
+			
+			<ul>
+				<li>Classes
+					<ul>
+						<li>
+							<a href="POO/exemplo-01.php">Estrutura de Classes, Explicando Métodos e Atributos, Exemplo de Classe</a>
+						</li>
+						<li>
+							<a href="POO/exemplo-02.php">Métodos get e set, Pegar e Definir Atributos</a>
+						</li>
+						<li>
+							<a href="POO/exemplo-04.php">Exemplo de Classe para Verificar CPF</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			
 		</body>
 
 	</head>
