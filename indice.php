@@ -252,6 +252,16 @@
 						</li>
 					</ul>
 				</li>
+				<li>Encapsulamento
+					<ul>
+						<li>
+							<a href="encapsulamento/exemplo-01.php">Exemplo de Atributos e Funções, Publicos, Privados e Secretos</a>
+						</li>
+						<li>
+							<a href="encapsulamento/exemplo-02.php">Exemplo de Classes Extendidas, Classes que Buscam Conteúdo de Outras Classes</a>
+						</li>
+					</ul>
+				</li>
 			</ul>
 			
 		</body>
