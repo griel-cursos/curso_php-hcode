@@ -293,6 +293,22 @@
 						</li>
 					</ul>
 				</li>
+				<li>Namespace
+					<ul>
+						<li>
+							<a href="namespace/index.php">Arquivo Chamando Classes Dentro de um Outro Arquivo</a>
+						</li>
+						<li>
+							<a href="namespace/config.php">Registrando um Autoload e Usando REQUIRE_ONCE em Função</a>
+						</li>
+						<li>
+							<a href="namespace/class/Cadastro.php">Exemplo de Funções para Cadastros</a>
+						</li>
+						<li>
+							<a href="namespace/class/Cliente/Cadastro.php">Exemplo de Funções para Cadastro de Cliente Herdando de Classe em Outra Pasta com NAMESPACE</a>
+						</li>
+					</ul>
+				</li>
 			</ul>
 			
 		</body>
