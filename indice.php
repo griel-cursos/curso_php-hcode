@@ -262,6 +262,16 @@
 						</li>
 					</ul>
 				</li>
+				<li>Herança
+					<ul>
+						<a href="heranca/exemplo-01.php">Exemplo de Classes que Herdam Métodos e Funções de Outras Classes</a>
+					</ul>
+				</li>
+				<li>Interface
+					<ul>
+						<a href="interface/exemplo-01.php">Explicação de Interface: Obrigando as classes a terem os mesmos métodos e funções</a>
+					</ul>
+				</li>
 			</ul>
 			
 		</body>
