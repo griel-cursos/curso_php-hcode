@@ -261,8 +261,7 @@
 							<a href="encapsulamento/exemplo-02.php">Exemplo de Classes Extendidas, Classes que Buscam Conteúdo de Outras Classes</a>
 						</li>
 					</ul>
-				</li>
-				<li>Herança
+				</li>Herança
 					<ul>
 						<a href="heranca/exemplo-01.php">Exemplo de Classes que Herdam Métodos e Funções de Outras Classes</a>
 					</ul>
@@ -270,6 +269,18 @@
 				<li>Interface
 					<ul>
 						<a href="interface/exemplo-01.php">Explicação de Interface: Obrigando as classes a terem os mesmos métodos e funções</a>
+					</ul>
+				</li>
+				<li>Classes Abstratas
+					<ul>
+						<li>
+							<a href="abstrata/exemplo-01.php">Classes Abstratas: Semelhante à Interface porém com o que os Métodos devem Executar</a>
+						</li>
+					</ul>
+				</li>
+				<li>Polimorfismo
+					<ul>
+						<a href="polimorfismo/exemplo-01.php">Exemplo de Polimorfismo: Utilizar Atributos e Métodos com os Mesmos Nomes mas com Execuções Diferentes</a>
 					</ul>
 				</li>
 			</ul>
