@@ -5,28 +5,41 @@
 class Pessoa {
 	
 	public $Nome;
-	//Criando o atributo
+	//Atributo. Atributo fora de métodos posso chamar $Normal, Atributo dentro de método só posso chamar por $this->Metodo
 	
-	public function Falar() {
-		//Criando o método publico, que é semelhante à uma função
+	public function Falar() { //Método: Função dentro de uma classe
 		
 		return "O meu nome é " . $this->Nome;
-								 //Representação da classe instanciada, ou seja, o nosso objeto
+								//Representação do Objeto $this
 		
 	}
 	
 }
 
 $Roberto = new Pessoa();
-//Criei um objeto instanciando a classe Pessoa()
-
-$Roberto->Nome = "Roberto Griel Filho";
-//Quero referenciar um atributo que está dentro da Classe
-
+$Roberto->Nome = "Roberto";
+//Estou definindo que o atributo $Nome terá a informação dentro das aspas
 echo $Roberto->Falar();
-//Quero executar o método Falar() com o que for retornado
+
+///////////////////////
 
 
 
+//Exemplo de Classe para Apagar um Arquivo e Rodar Função
+class Apagar {
+	
+	public $Arquivo;
+	
+	public function Deletar() {
+		
+		$this->Arquivo = "teste.txt";
+		
+		unlink($this->Arquivo);
+		
+	}
+	
+}
 
+$Arquivo = new Apagar();
+$Arquivo->Deletar();
 ?>
