@@ -1,51 +1,43 @@
 <?php
 
-//Funções Gets e Setrs
-
 class Carro {
 	
 	private $Modelo;
-	//Atributo privado
 	private $Motor;
-	//Atributo privado
 	private $Ano;
-	//Atributo privado
+	//Atributos Privados
 	
 	
 	public function getModelo() {
-		//pegarNOME-METODO, pegar o valor do Atributo
-	
-		return $this -> Modelo;
-		//Representa o objeto
-	
+		
+		return $this->Modelo;
+		
 	}
 	
 	public function setModelo($Modelo) {
 		
-		$this -> Modelo = $Modelo;
-		//Este -> Objeto = Recebe $Variavel
+		$this->Modelo = $Modelo;
 		
 	}
 	
-	public function getMotor():float {
+	public function getMotor() {
 		
-		return $this -> Motor;
+		return $this->Motor;
 	}
 	
 	public function setMotor($Motor) {
 		
-		$this -> Motor = $Motor;
+		$this->Motor = $Motor;
 	}
 	
-	public function getAno():int {
+	public function getAno() {
 		
-		
-		return $this -> Ano;
+		return $this->Ano;
 	}
 	
 	public function setAno($Ano) {
 		
-		$this -> Ano = $Ano;
+		$this->Ano = $Ano;
 	}
 	
 	public function Exibir() {
@@ -55,17 +47,15 @@ class Carro {
 			"motor"=>$this->getMotor(),
 			"ano"=>$this->getAno()
 		);
-		
 	}
+	
 }
 
-$Gol = new Carro();
-$Gol->setModelo("Gol GT");
-$Gol->setMotor("1.6");
-$Gol->setAno("2019");
-
-
-var_dump($Gol->Exibir());
+$gol = new Carro();
+$gol->setModelo("Ford Fusion");
+$gol->setAno("2020");
+$gol->setMotor("2.0 Turbo");
+print_r($gol->Exibir());
 
 
 
