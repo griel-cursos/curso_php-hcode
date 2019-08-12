@@ -310,6 +310,15 @@
 					</ul>
 				</li>
 			</ul>
+			<h1>Banco de Dados - MySQLi</h1>
+			<ul>
+				<li>
+					<a href="mysqli/exemplo-01.php">Exemplo de Conexão MySQL; Adicionando Informações à Tabela</a>
+				</li>
+				<li>
+					<a href="mysqli/exemplo-02.php">Exemplo de Exibição de Dados de Banco de Dados; Exportando Dados para Json</a>
+				</li>
+			</ul>
 			
 		</body>
 
