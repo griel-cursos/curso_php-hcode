@@ -318,6 +318,24 @@
 				<li>
 					<a href="mysqli/exemplo-02.php">Exemplo de Exibição de Dados de Banco de Dados; Exportando Dados para Json</a>
 				</li>
+				<li>
+					<a href="mysqli/anotações.txt">Lista de Alguns Comandos MySQL</a>
+				</li>
+			</ul>
+			<h1>PHP Data Object - Conexão de Banco de Dados Através de POO</h1>
+			<ul>
+				<li>
+					<a href="pdo/exemplo-01.php">Exemplo de Conexão com PDO; Exibindo Conteúdo do Banco de Dados com FOREACH</a>
+				</li>
+				<li>
+					<a href="pdo/exemplo-03.php">Inserindo Dados no Banco de Dados usando PDO</a>
+				</li>
+				<li>
+					<a href="pdo/exemplo-04.php">Atualizando Dados no Banco de Dados usando PDO</a>
+				</li>
+				<li>
+					<a href="pdo/exemplo-05.php">Apagando Dados no Banco de Dados usando PDO</a>
+				</li>
 			</ul>
 			
 		</body>
