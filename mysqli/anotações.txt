@@ -1,0 +1,55 @@
+[CRIAR TABELAS NO BANCO DE DADOS]
+
+create table tb_usuarios (
+//Cria uma tabela com o nome tb_usuario
+	idusuario int not null AUTO_INCREMENT PRIMARY KEY,
+	//cria uma coluna idusuario
+    deslogin varchar(64) not null,
+	//Cria uma coluna chamada deslogin
+    dessenha varchar(25) not null,
+	//Cria uma coluna chamada dessenha
+	dtcadastro timestamp not null default CURRENT_TIMESTAMP()
+	//Cria uma colina chamada dtcadastro
+);
+
+
+[ADICIONAR INFORMAÇÕES NA TABELA DO BANCO DE DADOS]
+
+insert into NOME_TABELA (coluna, coluna, quantas colunas tiver) values ('valor da primeira coluna', 'valor da segunda coluna', 'valor das demais colunas');
+
+
+[ALTERAR INFORMAÇÕES NA TABELA DO BANCO DE DADOS]
+
+UPDATE NOME_TABELA set NOME_COLUNA = 'NOVA INFORMAÇÃO' where COLUNA_PRIMARY_KEY = #;
+
+Executa o comando update na tabela, definindo que em NOME_COLUNA agora terá a 'NOVA INFORMAÇÃO', selecionando a COLUNA_PRIMARY_KEY de número #TAL
+
+
+[DELETAR UM REGISTRO DA TABELA]
+
+DELETE FROM tb_usuarios where idusuario = 1;
+
+Deleta da NOME_TABELA aonde o PRIMARY_KEY seja igual a #
+
+
+[REDEFINIR TABELA]
+
+TRUNCATE NOME_TABELA;
+
+Irá apagar tudo da tabela e redefinir a tabela, até a chave primaria. Usar com muito cuidado e somente se for necessário
+
+
+
+===============================================
+
+[EXPLICAÇÕES]
+
+int = Significa que o tipo de conteúdo será um número
+varchar() = Significa que o conteúdo será texto, e dentro dos () terá o limite de caracteres
+not null = Significa que o conteúdo não pode ser vazio
+auto_increment = Significa que o conteúdo será incrementado automaticamente, por exemplo, id de cadastro
+primary key = Significa que a coluna será a chave primaria 
+timestamp = Significa que o conteúdo será uma data
+default (...) = Significa que o conteúdo receberá uma informação padrão
+current_timestamp() = Informa a data e hora atual
+
