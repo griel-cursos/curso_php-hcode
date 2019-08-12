@@ -29,10 +29,16 @@ echo $root;
 
 //Carregar um usuário usando login e senha
 
-$usuario = new Usuario();
-$usuario->login("Jose", "qwerty");
+//$usuario = new Usuario();
+//$usuario->login("Jose", "qwerty");
+//echo $usuario;
 
-echo $usuario;
+
+$aluno = new Usuario("aluno_teste", "gi4j43");
+
+$aluno->insert();
+
+echo $aluno;
 
 
 
