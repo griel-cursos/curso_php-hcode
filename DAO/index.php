@@ -15,30 +15,32 @@ echo $root;
 */
 
 //Carrega a Lista de Usuários
-
 //$lista = Usuario::getList();
 //echo json_encode($lista);
 
 
 //Carrega uma lista de usuários buscando pelo login
-
 //$search = Usuario::search("Ro");
-
 //echo json_encode($search);
 
 
 //Carregar um usuário usando login e senha
-
 //$usuario = new Usuario();
 //$usuario->login("Jose", "qwerty");
 //echo $usuario;
 
 
-$aluno = new Usuario("aluno_teste", "gi4j43");
+//Criando um novo usuário
+//$aluno = new Usuario("aluno_teste", "gi4j43");
+//$aluno->insert();
+//echo $aluno;
 
-$aluno->insert();
 
-echo $aluno;
+$usuario = new Usuario();
+$usuario->loadById(8);
+$usuario->update("professor", "4fuhugh345g43");
+
+echo $usuario;
 
 
 
