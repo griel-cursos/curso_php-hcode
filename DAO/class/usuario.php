@@ -77,6 +77,7 @@ class Usuario {
 		
 	}
 	
+	//Função para retornar login e senha se estiverem devidamente corretos
 	public function login($login, $password) {
 		
 		$sql = new SQL();
@@ -104,6 +105,9 @@ class Usuario {
 		
 	}
 	
+	
+	
+	//Função para exibir em texto o resultado das funções acima
 	public function __toString() {
 		return json_encode(array(
 			"idusuario"=>$this->getIdusuario(),
