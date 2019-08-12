@@ -35,13 +35,18 @@ echo $root;
 //$aluno->insert();
 //echo $aluno;
 
+//Atualizando dados 
+//$usuario = new Usuario();
+//$usuario->loadById(8);
+//$usuario->update("professor", "4fuhugh345g43");
+//echo $usuario;
 
+
+//Deletar um usuário
 $usuario = new Usuario();
-$usuario->loadById(8);
-$usuario->update("professor", "4fuhugh345g43");
-
+$usuario->loadById(7);
+$usuario->delete();
 echo $usuario;
-
 
 
 ?>
