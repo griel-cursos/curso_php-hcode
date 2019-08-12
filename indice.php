@@ -336,6 +336,9 @@
 				<li>
 					<a href="pdo/exemplo-05.php">Apagando Dados no Banco de Dados usando PDO</a>
 				</li>
+				<li>
+					<a href="pdo/exemplo-06.php">Apagando Dados com Recurso de Commit e Rollback (Desfaz Comando Se Algum Estiver Incorreto)</a>
+				</li>
 			</ul>
 			
 		</body>
