@@ -18,35 +18,18 @@ foreach ($images as $img) {
 		
 		$info["size"] = filesize($filename);
 		$info["modified"] = date("d/m/Y H:i:s", filemtime($filename));
+							// 					Recuperar o timestamp da modificação do arquivo
 		$info["url"] = "http://localhost/cursophp/DIR/" . str_replace("\\", "/", $filename);
+											//Sempre que for precisar informar a \, precisa colocar duas \\
 		
 		array_push($data, $info);
+		//Adiciona no array $data, todas as informações que veio recuperada do $info
 		
 	}
 	
 }
 
-$imagem = "images/php7.png";
 
-function Tamanho($imagem) {
-	$bytes = filesize($imagem);
-            
-	if ($bytes >= 1073741824) {
-		return number_format($bytes / 1073741824, 2) . ' GB';
-	} elseif ($bytes >= 1048576) {
- 		return number_format($bytes / 1048576, 2) . ' MB';
-	} elseif ($bytes >= 1024) {
-		return number_format($bytes / 1024, 2) . ' KB';
-	} elseif ($bytes > 1) {
-		return $bytes . ' bytes';
-	} elseif ($bytes == 1) {
-		return '1 byte';
-	} else {
-		return '0 bytes';
-	}
-}
-
-echo Tamanho($imagem);
 
 echo "<br><br>";
 
