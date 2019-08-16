@@ -391,6 +391,7 @@
 					<a href="cookie/exemplo-02.php">Recuperando Dados do Cookie</a>
 				</li>
 			</ul>
+			
 		
 			
 		</body>
