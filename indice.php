@@ -382,6 +382,15 @@
 					<a href="curl/exemplo-01.php">Exemplo de Consulta de CEP com cURL</a>
 				</li>
 			</ul>
+			<h1>Criando e Recuperando Cookies</h1>
+			<ul>
+				<li>
+					<a href="cookie/exemplo-01.php">Criando um Cookie no Computador</a>
+				</li>
+				<li>
+					<a href="cookie/exemplo-02.php">Recuperando Dados do Cookie</a>
+				</li>
+			</ul>
 		
 			
 		</body>
