@@ -340,6 +340,43 @@
 					<a href="pdo/exemplo-06.php">Apagando Dados com Recurso de Commit e Rollback (Desfaz Comando Se Algum Estiver Incorreto)</a>
 				</li>
 			</ul>
+			<h1>Manipulação de Arquivos com PHP</h1>
+			<ul>
+				<li>
+					<a href="DIR/exemplo-01.php">Criando e Apagando Pastas com Função do PHP</a>
+				</li>
+				<li>
+					<a href="DIR/exemplo-02.php">Recuperando Informações de um Arquivo</a>
+				</li>
+				<li>
+					<a href="FOPEN/exemplo-01.php">Criando um Arquivo de Texto com PHP</a>
+				</li>
+				<li>
+					<a href="FOPEN/exemplo-02.php">Exportando Dados de Banco de Dados em Arquivo CSV</a>
+				</li>
+				<li>
+					<a href="UNLINK/exemplo-01.php">Excluindo um Arquivo com PHP usando UNLINK</a>
+				</li>
+				<li>
+					<a href="UNLINK/exemplo-02.php">Excluindo Todo o Conteúdo de Uma Pasta com UNLINK</a>
+				</li>
+				<li>
+					<a href="FGETS/exemplo-01.php">Exibindo Conteúdo de Arquivo CSV</a>
+				</li>
+				<li>
+					<a href="FGETS/exemplo-02.php">Exibindo o Tipo do Arquivo em Código Binário</a>
+				</li>
+				<li>
+					<a href="upload/exemplo-01.php">Fazendo Upload com PHP</a>
+				</li>
+				<li>
+					<a href="download/exemplo-01.php">Pegando Dados de Um Arquivo e Criando Localmente</a>
+				</li>
+				<li>
+					<a href="rename/exemplo-01.php">Movendo Arquivos com PHP</a>
+				</li>
+			</ul>
+		
 			
 		</body>
 
