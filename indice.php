@@ -376,6 +376,12 @@
 					<a href="rename/exemplo-01.php">Movendo Arquivos com PHP</a>
 				</li>
 			</ul>
+			<h1>Consumindo Conteúdo de WebService com cURL</h1>
+			<ul>
+				<li>
+					<a href="curl/exemplo-01.php">Exemplo de Consulta de CEP com cURL</a>
+				</li>
+			</ul>
 		
 			
 		</body>
