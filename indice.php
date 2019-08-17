@@ -391,7 +391,18 @@
 					<a href="cookie/exemplo-02.php">Recuperando Dados do Cookie</a>
 				</li>
 			</ul>
-			
+			<h1>Tratamento de Erros</h1>
+			<ul>
+				<li>
+					<a href="try/exemplo-01.php">Capturando um Erro e Exibindo em JSON</a>
+				</li>
+				<li>
+					<a href="try/exemplo-02.php">Tratando Erros com Try, Catch e Finally</a>
+				</li>
+				<li>
+					<a href="erros/exemplo-01.php">Função para Gerenciar e Tratar Erros</a>
+				</li>
+			</ul>
 		
 			
 		</body>
