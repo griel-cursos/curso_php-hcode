@@ -1,6 +1,6 @@
 <?php
 
-//Função que irá trabalhar com os erros
+//Função que irá trabalhar com os erros. Parâmetros com o que o erro irá me retornar
 function error_handler($code, $message, $file, $line) {
 	
 	echo json_encode(array(
