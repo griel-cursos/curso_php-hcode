@@ -402,6 +402,9 @@
 				<li>
 					<a href="erros/exemplo-01.php">Função para Gerenciar e Tratar Erros</a>
 				</li>
+				<li>
+					<a href="erros/exemplo-02.php">Definindo Quais Erros Devem ou Não Aparecer</a>
+				</li>
 			</ul>
 		
 			
