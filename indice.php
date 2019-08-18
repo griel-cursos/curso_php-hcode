@@ -406,6 +406,21 @@
 					<a href="erros/exemplo-02.php">Definindo Quais Erros Devem ou Não Aparecer</a>
 				</li>
 			</ul>
+			<h1>Trabalhando com Imagens no PHP e Biblioteca GD</h1>
+			<ul>
+				<li>
+					<a href="GD/exemplo-01.php">Criando uma Imagem com Códigos em PHP</a>
+				</li>
+				<li>
+					<a href="GD/exemplo-02.php">Criando uma Imagem a Partir de Outra Imagem com Texto e Salvando em Disco</a>
+				</li>
+				<li>
+					<a href="GD/exemplo-03.php">Criando uma Imagem a Partir de Outra com Fonte Personalizada</a>
+				</li>
+				<li>
+					<a href="GD/exemplo-04.php">Criando uma Miniatura de Uma Imagem</a>
+				</li>
+			</ul>
 		
 			
 		</body>
