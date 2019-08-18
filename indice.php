@@ -421,6 +421,12 @@
 					<a href="GD/exemplo-04.php">Criando uma Miniatura de Uma Imagem</a>
 				</li>
 			</ul>
+			<h1>Enviando e-mail</h1>
+			<ul>
+				<li>
+					<a href="email/index.php">Exemplo de Envios de Email com PHPMailer</a>
+				</li>
+			</ul>
 		
 			
 		</body>
