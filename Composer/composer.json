@@ -1,0 +1,15 @@
+{
+    "name": "robzgf/composer",
+    "description": "Aula de PHP7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "robzgf",
+            "email": "rgrielfilho@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"monolog/monolog":"1.0.*"
+	}
+}
