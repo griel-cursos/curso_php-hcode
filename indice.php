@@ -427,6 +427,30 @@
 					<a href="email/index.php">Exemplo de Envios de Email com PHPMailer</a>
 				</li>
 			</ul>
+			<h1>Segurança em PHP</h1>
+			<ul>
+				<li>
+					<a href="seguranca/exemplo-01.php">Executando Comandos de Sistema e Protegento Comandos Dinâmicos</a>
+				</li>
+				<li>
+					<a href="seguranca/exemplo-02.php">Tratando Erros para Evitar MySQL Injection</a>
+				</li>
+				<li>
+					<a href="seguranca/exemplo-03.php">Criando Pasta com Permissões Corretas</a>
+				</li>
+				<li>
+					<a href="seguranca/exemplo-04.php">Usando o Google Recaptcha em um Formulário</a>
+				</li>
+				<li>
+					<a href="xss/exemplo-01.php">Bloqueando Tags HTML em Formulário (Proteção Contra XSS)</a>
+				</li>
+				<li>
+					<a href="criptografia/exemplo-02.php">Criptografia de Texto com OpenSSL</a>
+				</li>
+				<li>
+					<a href="ataque_sessoes/exemplo-01.php">Exemplo de Como Evitar Ataque de Sessões</a>
+				</li>
+			</ul>
 		
 			
 		</body>
