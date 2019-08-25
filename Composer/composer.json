@@ -1,0 +1,9 @@
+{
+    "name": "robzgf/composer",
+    "description": "Aula de Composer",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+		"monolog/monolog":"1.0.*"
+	}
+}
