@@ -451,6 +451,10 @@
 					<a href="ataque_sessoes/exemplo-01.php">Exemplo de Como Evitar Ataque de Sessões</a>
 				</li>
 			</ul>
+			<h1>Composer</h1>
+			<ul>
+				<li><a href="Composer/index.php">Instalando o Composer</li>
+			</ul>
 		
 			
 		</body>
